@@ -1,6 +1,8 @@
 # Инспекция
 https://github.com/logan1978/flooringNew/blob/master/flooringNew/src/ru/flooring_nn/beans/CommonBean.java
+
 Расположения файла: https://github.com/logan1978/flooringNew
+
 Автор кода: logan1978
 
  Место ошибки  | Суть ошибки   | Рекомендации по устранению  
